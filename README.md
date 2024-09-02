@@ -1,6 +1,6 @@
  # Um Guia de preparação para a Prova
 
- - [ AWS Well-Architected Framework]_(#aws-well-architected-framework).
+ - [ AWS Well-Architected Framework](#aws-well-architected-framework).
 
 ---
 ---
