@@ -4,7 +4,7 @@
  - [Computação em nuvem com a AWS](#computação-em-nuvem-com-a-aws) 
  - [A Estrutura da AWS](#a-estrutura-da-aws)
  - [AWS Well-Architected Framework](#aws-well-architected-framework)
-
+ - [Planos de suporte da AWS](#planos-de-suporte-da-aws)
 ---
 ---
 # Você sabe o que é Cloud computing?
@@ -136,3 +136,36 @@ AWS Well-Architected ajuda arquitetos de nuvem a construir infraestruturas segur
 
 ---
 ---
+### Planos de suporte da AWS
+- ********************Developer********************
+    - Acesso aos associados do Cloud Support pela Web em horário comercial.
+    - Orientação geral de arquitetura de projeto.
+    - Orientações gerais: Tempo de resposta em menos de 24 horas.
+    - Sistema afetado: Tempo de resposta em menos de 12 horas.
+- ********Business********
+    - Acesso aos engenheiros de suporte de nuvem por telefone, Web e conversas 24 horas por dia, 7 dias por semana.
+    - Orientação de arquitetura sendo contextual em relação ao seus casos de uso.
+    - Orientações gerais: Tempo de resposta em menos de 24 horas.
+    - Sistema afetado: Tempo de resposta em menos de 12 horas.
+    - Sistema de produção afetado: Tempo de resposta em menos de 4 horas.
+    - Sistema de produção inativo: Tempo de resposta em menos de 1 hora.
+- ********************************Enterprise On-Ramp********************************
+    - Acesso aos engenheiros de suporte de nuvem por telefone, Web e conversas 24 horas por dia, 7 dias por semana.
+    - Orientação de arquitetura sendo uma análise consultiva e orientações de acordo com as aplicações (limitado em uma anualmente).
+    - Orientações gerais: Tempo de resposta em menos de 24 horas.
+    - Sistema afetado: Tempo de resposta em menos de 12 horas.
+    - Sistema de produção afetado: Tempo de resposta em menos de 4 horas.
+    - Sistema de produção inativo: Tempo de resposta em menos de 1 hora.
+    - Sistema essencial aos negócios inativo: Tempo de resposta em menos de 30 minutos.
+- **********************Enterprise**********************
+    - Acesso aos engenheiros de suporte de nuvem por telefone, Web e conversas 24 horas por dia, 7 dias por semana.
+    - Orientação de arquitetura sendo uma análise consultiva e orientações de acordo com as aplicações (ilimitada).
+    - Orientações gerais: Tempo de resposta em menos de 24 horas.
+    - Sistema afetado: Tempo de resposta em menos de 12 horas.
+    - Sistema de produção afetado: Tempo de resposta em menos de 4 horas.
+    - Sistema de produção inativo: Tempo de resposta em menos de 1 hora.
+    - Sistema essencial aos negócios inativo: Tempo de resposta em menos de 15 minutos.
+
+---
+---
+
