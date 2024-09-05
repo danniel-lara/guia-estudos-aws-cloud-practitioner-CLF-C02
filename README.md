@@ -6,14 +6,14 @@
  - [AWS Well-Architected Framework](#aws-well-architected-framework)
  - [Planos de suporte da AWS](#planos-de-suporte-da-aws)
  - [IAM (Identity and Access Management)](#iam-identity-and-access-management)
-        - [O que é o IAM?](#o-que-é-o-iam)
-        - [IAM Identity Center](#iam-identity-center)
-        - [AWS Organizations](#aws-organizations)
-        - [Política de senhas](#política-de-senhas)
-        - [CloudShell e CLI](#cloudshell-e-cli)
-        - [Credential Report e Access Advisor](#credential-report-e-access-advisor)
-        - [Resumo - IAM](#resumo---iam-identity-and-access-management)
-        - [Resumo - Organizaçõs](#resumo---organizações)
+     - [O que é o IAM?](#o-que-é-o-iam)
+     - [IAM Identity Center](#iam-identity-center)
+     - [AWS Organizations](#aws-organizations)
+     - [Política de senhas](#política-de-senhas)
+     - [CloudShell e CLI](#cloudshell-e-cli)
+     - [Credential Report e Access Advisor](#credential-report-e-access-advisor)
+     - [Resumo - IAM](#resumo---iam-identity-and-access-management)
+     - [Resumo - Organizaçõs](#resumo---organizações)
 
 ---
 ---
