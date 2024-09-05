@@ -98,6 +98,7 @@ O Modelo de Responsabilidade Compartilhada da AWS é uma estrutura de governanç
 
 A compreensão e a aplicação adequada do Modelo de Responsabilidade Compartilhada da AWS são fundamentais para garantir a segurança e a conformidade ao usar a AWS. Isso requer que os clientes estejam cientes de suas responsabilidades de segurança e implementem práticas de segurança robustas ao usar serviços da AWS.
 
+![Modelo de Responsabilidade Compartilhada](imagens/sharedresponsibilitymodel.png)
 
 ---
 ---
