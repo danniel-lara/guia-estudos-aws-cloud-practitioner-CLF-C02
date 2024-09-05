@@ -180,7 +180,7 @@ AWS Well-Architected ajuda arquitetos de nuvem a construir infraestruturas segur
 ---
 
 # IAM (Identity and Access Management)
-
+![IAM](imagens/iam.png)
 ### O que é o IAM?
     
 Cuida do gerenciamento de acesso geral da conta da AWS, com grupo de usuários, usuários, funções, políticas, provedores de identidade e configurações da conta. Resumindo, o IAM funciona para organizar os usuários que tem ou não acesso à plataforma da AWS.
